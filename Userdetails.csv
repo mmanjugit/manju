@@ -1,0 +1,62 @@
+Userid,Name,Last Name,Village,Mandal,Distic,phonenumber,Date
+YCP0001,Manjunatha,Reddy,Mudigal,Anantapur,Anantapur,968677665,6092024
+YCP0002,Rajesh,Reddy,Ramapuram,Anantapur,Anantapur,968677666,7092024
+YCP0003,Ramesh,Reddy,Konaepalli,Anantapur,Anantapur,968677667,8092024
+YCP0004,Nageswar,Reddy,Bhimavaram,Bhimavaram,Bhimavaram,968677668,9092024
+YCP0005,kiran,Reddy,Anantapur,Anantapur,Anantapur,968677669,10092024
+YCP0006,Ramu,Reddy,Kalyandurg,Anantapur,Anantapur,968677670,11092024
+YCP0007,Srinivas,Reddy,Hindhupur,Hindhupur,Hindhupur,968677671,12092024
+YCP0008,Ramanna,Rao,penukonda,Hindhupur,Hindhupur,968677672,13092024
+YCP0009,Ramanji,Rao,Uravakionda,Anantapur,Anantapur,968677673,14092024
+YCP0010,kiran,Rao,Karnool,Karnool,Karnool,968677674,15092024
+YCP0011,Ramu,Rao,Chitoor,Chitoor,Chitoor,968677675,16092024
+YCP0012,Srinivas,Rao,Thirupathi,Thirupathi,Thirupathi,968677676,17092024
+YCP0013,Ramanna,Naidu,Mudigal,Anantapur,Anantapur,968677677,18092024
+YCP0014,Ramanji,Naidu,Ramapuram,Anantapur,Anantapur,968677678,8092024
+YCP0015,Manjunatha,Naidu,Konaepalli,Anantapur,Anantapur,968677679,9092024
+YCP0016,Rakesh,Naidu,Bhimavaram,Bhimavaram,Bhimavaram,968677680,11092024
+YCP0017,Ramumurthi,Naidu,Anantapur,Anantapur,Anantapur,968677681,12092024
+YCP0018,Saraswathi,Naidu,Kalyandurg,Anantapur,Anantapur,968677682,13092024
+YCP0019,Lakshmi,Naidu,Hindhupur,Hindhupur,Hindhupur,968677683,14092024
+YCP0020,Rekha,Reddy,penukonda,Hindhupur,Hindhupur,968677684,15092024
+YCP0021,Rvi,Reddy,Uravakionda,Anantapur,Anantapur,968677685,16092024
+YCP0022,Raju,Rao,Karnool,Karnool,Karnool,968677686,16092024
+YCP0023,Jaghan,Rao,Chitoor,Chitoor,Chitoor,968677687,17092024
+YCP0024,Bharathi,Rao,Thirupathi,Thirupathi,Thirupathi,968677688,18092024
+YCP0025,Sukesh,Reddy,Chitoor,Chitoor,Chitoor,968677689,17092024
+YCP0026,Vihaan,Reddy,Chitoor,Chitoor,Chitoor,968677690,18092024
+YCP0027,Lokesh,Reddy,Thirupathi,Thirupathi,Thirupathi,968677691,30092024
+YCP0028,Manjunatha,Rao,Guntur,Guntur,Guntur,968677692,7092024
+YCP0029,Rajesh,Rao,Krishna,Krishna,Krishna,968677693,8092024
+YCP0030,Ramesh,Naidu,Vijainagaram,Vijainagaram,Vijainagaram,968677694,9092024
+YCP0031,Nageswar,Naidu,Vishakapatnam,Vishakapatnam,Vishakapatnam,968677695,10092024
+YCP0032,kiran,Naidu,Srikakulam,Srikakulam,Srikakulam,968677696,11092024
+YCP0033,Ramu,Naidu,Nellore,Nellore,Nellore,968677697,12092024
+YCP0034,Srinivas,Naidu,YSR ,YSR ,YSR ,968677698,13092024
+YCP0035,Ramanna,Naidu,East Godavari,East Godavari,East Godavari,968677699,14092024
+YCP0036,Ramanji,Naidu,West Godavari,West Godavari,West Godavari,968677700,7092024
+YCP0037,kiran,Rao,Chitoor,Chitoor,Chitoor,968677701,8092024
+YCP0038,Ramu,Rao,Thirupathi,Thirupathi,Thirupathi,968677702,9092024
+YCP0039,Srinivas,Naidu,Guntur,Guntur,Guntur,968677703,10092024
+YCP0040,Ramanna,Naidu,Krishna,Krishna,Krishna,968677704,11092024
+YCP0041,Ramanji,Naidu,Vijainagaram,Vijainagaram,Vijainagaram,968677705,12092024
+YCP0042,Manjunatha,Naidu,Vishakapatnam,Vishakapatnam,Vishakapatnam,968677706,13092024
+YCP0043,Manjunatha,Naidu,Srikakulam,Srikakulam,Srikakulam,968677707,14092024
+YCP0044,Rajesh,Naidu,Nellore,Nellore,Nellore,968677708,15092024
+YCP0045,Ramesh,Naidu,YSR ,YSR ,YSR ,968677709,16092024
+YCP0046,Nageswar,Reddy,East Godavari,East Godavari,East Godavari,968677710,7092024
+YCP0047,kiran,Reddy,West Godavari,West Godavari,West Godavari,968677711,8092024
+YCP0048,Ramu,Rao,Chitoor,Chitoor,Chitoor,968677712,9092024
+YCP0049,Srinivas,Rao,Thirupathi,Thirupathi,Thirupathi,968677713,10092024
+YCP0050,Ramanna,Rao,Guntur,Guntur,Guntur,968677714,11092024
+YCP0051,Ramanji,Naidu,Krishna,Krishna,Krishna,968677715,12092024
+YCP0052,kiran,Naidu,Vijainagaram,Vijainagaram,Vijainagaram,968677716,13092024
+YCP0053,Ramu,Naidu,Vishakapatnam,Vishakapatnam,Vishakapatnam,968677717,14092024
+YCP0054,Srinivas,Naidu,Chitoor,Chitoor,Chitoor,968677718,15092024
+YCP0055,Ramanna,Rao,Thirupathi,Thirupathi,Thirupathi,968677719,16092024
+YCP0056,Ramanji,Rao,Guntur,Guntur,Guntur,968677720,17092024
+YCP0057,Manjunatha,Naidu,Krishna,Krishna,Krishna,968677721,18092024
+YCP0058,Rakesh,Naidu,Vijainagaram,Vijainagaram,Vijainagaram,968677722,8092024
+YCP0059,Ramumurthi,Naidu,Vishakapatnam,Vishakapatnam,Vishakapatnam,968677723,9092024
+YCP0060,Saraswathi,Naidu,Srikakulam,Srikakulam,Srikakulam,968677724,10092024
+YCP0061,Lakshmi,Naidu,Nellore,Nellore,Nellore,968677725,11092024
